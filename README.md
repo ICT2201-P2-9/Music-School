@@ -33,15 +33,13 @@ Download Music School Prototype Provided: Music School Prototype.vp
 
 4. Run Prototype file By Clicking on the Run Button
 
-```bash
-<img width="781" alt="image" src="https://user-images.githubusercontent.com/91716039/204090150-449f5fc2-9294-4f36-a5fe-26e17aa30d60.png">
-```
+img width="781" alt="image" src="https://user-images.githubusercontent.com/91716039/204090150-449f5fc2-9294-4f36-a5fe-26e17aa30d60.png">
+
 
 5. View Prototype in Web Browser
 
-```bash
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/91716039/204090235-37158498-6864-45b1-a9b4-754da24b500b.png">
-```
+
 
 ## 🚀 Navigating the Prototype
 
