@@ -46,20 +46,20 @@ Download Music School Prototype Provided: Music School Prototype.vp
 1. Manager 
 
 ```bash
-- Log in to Manager Dashboard by enter "manager@musicschool.com" in the Email input
+- Log in to Manager Dashboard by entering "manager@musicschool.com" in the Email input
 - Click on tabs: Home, Job Allocation, and Job Reallocation, to navigate through the pages 
 ```
 
 2. Staff
 
 ```bash
-- Log in to Manager Dashboard by enter "staff@musicschool.com" in the Email input
+- Log in to Manager Dashboard by entering "staff@musicschool.com" in the Email input
 - Click on tabs: Home, Add Availability, Preference, and View Availabilty, to navigate through the pages 
 ```
 3. IT Administrator
 
 ```bash
-- Log in to Manager Dashboard by enter "admin@musicschool.com" in the Email input
+- Log in to Manager Dashboard by entering "admin@musicschool.com" in the Email input
 - Click on tabs: Home, Create Account, and View Account to navigate through the pages 
 ```
 
