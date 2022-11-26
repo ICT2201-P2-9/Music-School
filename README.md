@@ -17,8 +17,7 @@ YouTube Link: [ICT2201_P2-9_Music School Prototype Video](https://youtu.be/3muN_
 1. Download Justinmind Software for Free
 
 ```bash
-Download link: [Justinmind](https://www.justinmind.com)
-</a> 
+Download link: https://www.justinmind.com
 ```
 
 2. Download Music School Prototype
@@ -29,9 +28,8 @@ Download Music School Prototype Provided: Music School Prototype.vp
 
 3. Open Prototype file in Justinmind Software
 
-```bash
 <img width="269" alt="image" src="https://user-images.githubusercontent.com/91716039/204090113-216b09df-496a-4986-a7f7-66c27f6aa6cb.png">
-```
+
 
 4. Run Prototype file By Clicking on the Run Button
 
