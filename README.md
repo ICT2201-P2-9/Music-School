@@ -24,7 +24,7 @@ Download link: <a href="https://www.justinmind.com/" target="blank">
 2. Download Music School Prototype
 
 ```bash
-Download Music School Prototype provided 
+Download Music School Prototype Provided: Music School Prototype.vp 
 ```
 
 3. Open Prototype file in Justinmind Software
