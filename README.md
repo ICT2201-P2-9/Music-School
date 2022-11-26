@@ -17,7 +17,7 @@ YouTube Link: [ICT2201_P2-9_Music School Prototype Video](https://youtu.be/3muN_
 1. Download Justinmind Software for Free
 
 ```bash
-Download link: <a href="https://www.justinmind.com/" target="blank">
+Download link: [Justinmind](https://www.justinmind.com)
 </a> 
 ```
 
