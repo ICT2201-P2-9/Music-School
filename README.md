@@ -28,12 +28,12 @@ Download Music School Prototype Provided: Music School Prototype.vp
 
 3. Open Prototype file in Justinmind Software
 
-<img width="269" alt="image" src="https://user-images.githubusercontent.com/91716039/204090113-216b09df-496a-4986-a7f7-66c27f6aa6cb.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/91716039/204090113-216b09df-496a-4986-a7f7-66c27f6aa6cb.png">
 
 
 4. Run Prototype file By Clicking on the Run Button
 
-img width="781" alt="image" src="https://user-images.githubusercontent.com/91716039/204090150-449f5fc2-9294-4f36-a5fe-26e17aa30d60.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/91716039/204090150-449f5fc2-9294-4f36-a5fe-26e17aa30d60.png">
 
 
 5. View Prototype in Web Browser
